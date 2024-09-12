@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hey there! My name is Jair, I'm a brazilian developer and i _mostly_ code in C++ and C#. Or every language that starts with C on it.<br><br>**Except COBOL, Clojure, or anything that isn't C, C++ or C#.** Yeah.<br><br>Right now I'm working as a software developer using ASP.NET Core 8 and MAUI focused on mobile.<br><br>I love complex things and problems (although I can't solve them all, I'll live trying to).<br><br>> My main goal right now is to build a basic game engine completely in C#.<br><br>Anyway, I love stars, spaceships, `pew pew pew`... that sort of thing.<br><br>That's me alright.</p>
+<p align="left">Hey there! My name is Jair, I'm a brazilian developer and i mostly code in C++ and C#. Or every language that starts with C on it.<br><br><strong>Except</strong> COBOL, Clojure, or anything that isn't C, C++ or C#.Yeah.<br><br>Right now I'm working as a software developer using ASP.NET Core 8 and MAUI focused on mobile.<br><br>I love complex things and problems (although I can't solve them all, I'll live trying to).<br><br>> My main goal right now is to build a basic game engine completely in C#.<br><br>Anyway, I love stars, spaceships, `pew pew pew`... that sort of thing.<br><br>That's me alright.</p>
 
 ###
 
