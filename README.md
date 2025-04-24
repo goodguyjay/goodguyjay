@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">Hey there! My name is Jair, I'm a brazilian developer and i mostly code in C++ and C#. Or every language that starts with C on it.<br><br><strong>Except</strong> COBOL, Clojure, or anything that isn't C, C++ or C#.Yeah.<br><br>Right now I'm working as a software developer using ASP.NET Core 8 and MAUI focused on mobile.<br><br>I love complex things and problems (although I can't solve them all, I'll live trying to).<br><br>> My main goal right now is to build a basic game engine completely in C#.<br><br>Anyway, I love stars, spaceships, `pew pew pew`... that sort of thing.<br><br>That's me alright.</p>
+<p align="left">
+  I'm Jay. Brazilian. I write code that randomly breaks, usually in C#, Rust, or whichever curse I'm willing to cast upon this world.<br>
+
+  Currently trapped in the rabbit hole of ASP.NET Core 8 and MAUI. If I really put myself into it I can become the new MS mascot.<br>
+
+  That's me. Jay. Overengineer by trade, memory leaker by design.
+</p>
 
 ###
 
@@ -19,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
