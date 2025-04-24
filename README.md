@@ -12,6 +12,8 @@
   Currently trapped in the rabbit hole of ASP.NET Core 9 and MAUI. If I **really** commit, I might become the new Microsoft mascot.<br><br>
 
   That's me. Jay. Overengineer by trade, memory leaker by design.
+
+  <em>Previously: C++. We don't talk about those days.</em>
 </p>
 
 ###
