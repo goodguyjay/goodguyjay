@@ -7,13 +7,11 @@
 ###
 
 <p align="left">
-  I'm Jay. Brazilian. I write code that randomly br<table><tr></tr></table>eaks — usually in C#, Rust, or whatever curse I’m willing to cast upon this world.<br><br>
+  I'm Jay. Brazilian. I write code that randomly br<table><tr></tr></table>eaks — usually in C#, Rust, C++, or whatever curse I’m willing to cast upon this world.<br><br>
 
   Currently trapped in the rabbit hole of ASP.NET Core 9 and MAUI. If I **really** commit, I might become the new Microsoft mascot.<br><br>
 
   That's me. Jay. Overengineer by trade, memory leaker by design.
-
-  <em>Previously: C++. We don't talk about those days.</em>
 </p>
 
 ###
