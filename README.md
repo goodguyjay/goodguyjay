@@ -9,9 +9,9 @@
 <p align="left">
   I'm Jay. Brazilian. I write code that randomly br<table><tr></tr></table>eaks usually in C#, Rust or whatever curse I’m willing to cast upon this world.<br><br>
 
-  but please dear god do not let javascript not fall on my lap again.<br><br>
+  <em>but please dear god do not let javascript fall on my lap again.</em><br><br>
 
-  That's me. Jay. Overengineer by trade, memory leaker by design.
+  That's me. Overengineer by trade, memory leaker by design.
 </p>
 
 ###
@@ -30,6 +30,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goodguyjay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+yeah i'm not going to overcomplicate this profile with fancy stuff, just take it as it is
